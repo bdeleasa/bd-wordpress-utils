@@ -1,0 +1,6 @@
+{
+  "name": "bdeleasa/bd-wordpress-utils",
+  "description": "A small plugin with some Wordpress helper/utils functions.",
+  "type": "wordpress-muplugin",
+  "version": "1.0.0"
+}
