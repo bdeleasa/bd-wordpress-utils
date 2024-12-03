@@ -11,7 +11,7 @@
  * Plugin Name: BD Wordpress Utils
  * Plugin URI:  https://example.com/plugin-name
  * Description: A small plugin with some Wordpress helper/utils functions.
- * Version:     1.0.0
+ * Version:     2.0.0
  * Author:      Brianna Deleasa
  * Author URI:  https://example.com
  * Text Domain: plugin-slug
